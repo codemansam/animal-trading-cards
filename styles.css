@@ -1,1 +1,4 @@
-/* add your CSS here */
+body {
+    border: 2px solid gray;
+    box-shadow: 0px 10px 10px 0px rgba(138,138,138,1);
+}
